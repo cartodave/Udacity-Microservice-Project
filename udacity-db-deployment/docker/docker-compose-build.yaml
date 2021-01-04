@@ -15,4 +15,4 @@ services:
   frontend:
     build:
       context: ../../udacity-db-frontend
-    image: dockerdave7731/udacity-frontend:prod
+    image: dockerdave7731/udacity-frontend
